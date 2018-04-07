@@ -22,7 +22,7 @@ public class HelloWorld {
         
         System.out.println("Input a sentence:");
         String s=sc.nextLine();
-        System.out.println(s);
+        System.out.println("What you have input is:" + s);
     }
     
 }
